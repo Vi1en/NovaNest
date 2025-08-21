@@ -5,6 +5,9 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 ## 🌐 **Live Website**
 **Visit NovaNest**: [https://vi1en.github.io/NovaNest](https://vi1en.github.io/NovaNest)
 
+### 🚀 **Live Demo (Netlify)**
+**NovaNest Live**: [https://nova4nest.netlify.app](https://nova4nest.netlify.app)
+
 ## 🚀 Features
 
 ### Core E-commerce Functionality
@@ -148,7 +151,8 @@ php -S localhost:8000
 
 ### Live Development
 - **Local**: `http://localhost:8000`
-- **Production**: [https://vi1en.github.io/NovaNest](https://vi1en.github.io/NovaNest)
+- **GitHub Pages**: [https://vi1en.github.io/NovaNest](https://vi1en.github.io/NovaNest)
+- **Netlify (Live Demo)**: [https://nova4nest.netlify.app](https://nova4nest.netlify.app)
 
 ## 🌟 Key Benefits
 
@@ -203,3 +207,5 @@ This project is created for your exclusive use. You have full rights to modify, 
 **NovaNest** - Transforming spaces, one product at a time. ✨
 
 **🌐 Live Website**: [https://vi1en.github.io/NovaNest](https://vi1en.github.io/NovaNest)
+
+**🚀 Live Demo (Netlify)**: [https://nova4nest.netlify.app](https://nova4nest.netlify.app)
