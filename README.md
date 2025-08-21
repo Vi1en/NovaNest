@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 # NovaNest - Custom E-commerce Website
 
 A modern, fully functional e-commerce website built with vanilla HTML, CSS, and JavaScript. This website has been completely converted from a Shopify-based system to a custom, independent e-commerce solution.
+
+## 🌐 **Live Website**
+**Visit NovaNest**: [https://vi1en.github.io/NovaNest](https://vi1en.github.io/NovaNest)
 
 ## 🚀 Features
 
@@ -11,13 +13,15 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 - **Search Functionality**: Real-time product search across names, descriptions, and categories
 - **Responsive Design**: Mobile-first approach with touch-friendly interfaces
 - **Local Storage**: Cart persistence across browser sessions
+- **User Authentication**: Login/register system with order tracking
+- **Shipping Address Collection**: Complete checkout process with address forms
 
 ### User Interface
 - **Modern Design**: Clean, professional aesthetic with smooth animations
 - **Mobile Menu**: Hamburger menu for mobile devices
 - **Search Bar**: Expandable search functionality
 - **Cart Sidebar**: Slide-out cart with full item management
-- **Category Navigation**: Organized product browsing
+- **Category Navigation**: Organized product browsing (Fans, Sippers, Mist Coolers)
 - **Newsletter Signup**: Customer engagement feature
 
 ### Technical Features
@@ -26,6 +30,7 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 - **CSS Variables**: Consistent theming system
 - **Smooth Animations**: CSS transitions and keyframe animations
 - **Responsive Breakpoints**: Optimized for all device sizes
+- **GitHub Pages Hosting**: Automatic deployment on push
 
 ## 🛠️ File Structure
 
@@ -34,6 +39,7 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 ├── styles.css          # Complete CSS styling
 ├── app.js             # JavaScript functionality
 ├── README.md          # This documentation
+├── .github/           # GitHub Actions deployment
 └── images/            # Product and brand images
     ├── NOVA4NEST_1.png
     ├── NOVA4NEST_430x.jpg
@@ -78,6 +84,11 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 
 ## 🛒 Shopping Experience
 
+### Product Categories
+- **🫙 Sippers**: Premium travel sippers for hydration
+- **💨 Fans**: Portable and table fans for cooling
+- **❄️ Mist Coolers**: Advanced cooling technology
+
 ### Product Display
 - Grid layout with hover effects
 - Product badges (New, Popular, Sale)
@@ -89,7 +100,7 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 - Quantity adjustment
 - Real-time total calculation
 - Persistent storage
-- Checkout simulation
+- Complete checkout with address collection
 
 ### Search & Filtering
 - Instant search results
@@ -106,10 +117,10 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 4. **Functionality**: Extend the `NovaNestApp` class
 
 ### Adding New Features
-- **Payment Integration**: Extend the `checkout()` method
-- **User Accounts**: Add authentication system
-- **Product Reviews**: Implement rating system
-- **Inventory Management**: Add stock tracking
+- **Payment Processing**: Extend the `checkout()` method
+- **User Authentication**: Customer accounts and profiles
+- **Order Management**: Admin panel for order processing
+- **Inventory System**: Real-time stock tracking
 
 ## 🚀 Getting Started
 
@@ -118,10 +129,10 @@ A modern, fully functional e-commerce website built with vanilla HTML, CSS, and 
 - Local web server (for development)
 
 ### Installation
-1. Download all files to your web directory
-2. Ensure images are in the correct location
+1. Clone the repository: `git clone https://github.com/Vi1en/NovaNest.git`
+2. Navigate to the directory: `cd NovaNest`
 3. Open `index.html` in a web browser
-4. For development, use a local server (e.g., Live Server in VS Code)
+4. For development, use a local server
 
 ### Development Server
 ```bash
@@ -134,6 +145,10 @@ npx serve .
 # Using PHP
 php -S localhost:8000
 ```
+
+### Live Development
+- **Local**: `http://localhost:8000`
+- **Production**: [https://vi1en.github.io/NovaNest](https://vi1en.github.io/NovaNest)
 
 ## 🌟 Key Benefits
 
@@ -186,6 +201,5 @@ This project is created for your exclusive use. You have full rights to modify, 
 ---
 
 **NovaNest** - Transforming spaces, one product at a time. ✨
-=======
-# NovaNest
->>>>>>> 01d8b5f79f55b808ce25fce6f6e0dc8903c7376c
+
+**🌐 Live Website**: [https://vi1en.github.io/NovaNest](https://vi1en.github.io/NovaNest)
