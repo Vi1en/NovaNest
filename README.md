@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NovaNest - Custom E-commerce Website
 
 A modern, fully functional e-commerce website built with vanilla HTML, CSS, and JavaScript. This website has been completely converted from a Shopify-based system to a custom, independent e-commerce solution.
@@ -185,3 +186,6 @@ This project is created for your exclusive use. You have full rights to modify, 
 ---
 
 **NovaNest** - Transforming spaces, one product at a time. ✨
+=======
+# NovaNest
+>>>>>>> 01d8b5f79f55b808ce25fce6f6e0dc8903c7376c
